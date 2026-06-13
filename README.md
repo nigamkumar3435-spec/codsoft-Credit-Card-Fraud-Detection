@@ -14,15 +14,14 @@ This project aims to build a **Machine Learning-based Credit Card Fraud Detectio
 - ✅ Legitimate Transaction (0)
 - 🚨 Fraudulent Transaction (1)
 
-The project demonstrates the complete Machine Learning workflow, including:
-
-- Data Collection
-- Data Exploration
+The project covers the complete data science workflow, including:
+- Data Collection and Exploration
+- Data Preprocessing
 - Handling Imbalanced Data
-- Under-Sampling Technique
 - Feature Selection
-- Model Training
-- Model Evaluation
+- Model Development
+- Performance Evaluation
+- Fraud Detection Analysis
 
 ---
 
@@ -271,7 +270,7 @@ Through this project, I gained practical experience in:
 
 ## 🙏 Acknowledgements
 
-This project was developed as part of the **CodSoft Machine Learning Internship Program** and demonstrates the application of Machine Learning techniques in detecting fraudulent financial transactions.
+This project was developed as part of the **CodSoft Data Science Internship Program**. It demonstrates the application of Data Science and Machine Learning techniques for detecting fraudulent credit card transactions using real-world financial data.
 
 ---
 
